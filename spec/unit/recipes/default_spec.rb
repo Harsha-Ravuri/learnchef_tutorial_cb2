@@ -34,7 +34,7 @@ end
 describe 'webserver_test::default' do
   platforms = {
     'centos' => ['7.3.1611', 'httpd', 'httpd'],
-    'ubuntu' => ['14.04', 'apache2', 'apache2']
+    'ubuntu' => ['14.04', 'apache2', 'apache2'],
   }
 
   platforms.each do |platform, platform_data|
