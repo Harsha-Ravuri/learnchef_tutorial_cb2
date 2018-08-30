@@ -1,4 +1,2 @@
 # webserver_test
-
-TODO: Enter the cookbook description here.
-
+Chef cookbook to automatically download a webserver on an EC2
